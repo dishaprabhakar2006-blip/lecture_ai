@@ -3,7 +3,12 @@
 Turn any YouTube lecture into a complete study kit in minutes.
 
 ## 🚀 Live Demo
-Coming soon after deployment
+Frontend: https://lecture-ai-ten-tau.vercel.app
+Note: Backend runs locally due to ML model memory requirements (Whisper + FAISS + SentenceTransformer require 2GB+ RAM). To run locally, follow the setup instructions below.
+
+## 🎥 Demo
+
+[▶️ Watch the React App Demo](./demo/react-app-demo.mp4)
 
 ## 📌 What It Does
 Paste a YouTube lecture URL and get:
