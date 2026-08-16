@@ -1,0 +1,8 @@
+backend/.env
+backend/__pycache__/
+backend/services/__pycache__/
+backend/routes/__pycache__/
+backend/database/__pycache__/
+backend/audio.mp3
+backend/audio.webm
+frontend/node_modules/
