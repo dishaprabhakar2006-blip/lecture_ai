@@ -91,6 +91,16 @@ FAISS finds 3 most relevant chunks
 Chunks and question sent to Mistral API
 Answer returned grounded in lecture content
 
+## 🔮 Future Improvements
+- Interactive MCQs — let users select answers and get scored
+- Conversation history — chatbot remembers previous questions in same session
+- User authentication — save each user's processed videos separately
+- Full cloud deployment — migrate to GPU-enabled server for Whisper
+- Multilingual support — translate notes and MCQs to regional languages
+- Timestamp-based search — "what did the lecturer say at 15:42?"
+- Progress tracking — track which topics user has studied
+  
+
 ## 👩‍💻 Author
 Disha P
 GitHub: https://github.com/dishaprabhakar2006-blip
