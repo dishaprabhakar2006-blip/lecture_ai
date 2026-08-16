@@ -8,7 +8,7 @@ Note: Backend runs locally due to ML model memory requirements (Whisper + FAISS 
 
 ## 🎥 Demo
 
-[▶️ Watch the React App Demo](./demo/react-app-demo.mp4)
+[▶️ Watch the React App Demo](./react-app-demo.mp4)
 
 ## 📌 What It Does
 Paste a YouTube lecture URL and get:
